@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a2bffb5-189d-4162-b5df-47822b3f0849" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multiples_of_3_or_5/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multiples_of_3_or_5/SolutionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sum_of_Digits_OR_Digital_Root/DRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sum_of_Digits_OR_Digital_Root/DRootTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Summa_of_ODD_numbers_in_infinite_triangle/SummaOfTriangleRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Summa_of_ODD_numbers_in_infinite_triangle/SummaOfTriangleRowTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KPno14JMb5SY2kLu6Tk114rfes" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.SummaOfTriangleRowTest">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DRootTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sum_of_Digits_OR_Digital_Root.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Sum_of_Digits_OR_Digital_Root" />
+      <option name="MAIN_CLASS_NAME" value="Sum_of_Digits_OR_Digital_Root.DRootTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Multiples_of_3_or_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Multiples_of_3_or_5" />
+      <option name="MAIN_CLASS_NAME" value="Multiples_of_3_or_5.SolutionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SummaOfTriangleRowTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Summa_of_ODD_numbers_in_infinite_triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Summa_of_ODD_numbers_in_infinite_triangle" />
+      <option name="MAIN_CLASS_NAME" value="Summa_of_ODD_numbers_in_infinite_triangle.SummaOfTriangleRowTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SummaOfTriangleRowTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Summa_of_ODD_numbers_in_infinite_triangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Summa_of_ODD_numbers_in_infinite_triangle" />
+      <option name="MAIN_CLASS_NAME" value="Summa_of_ODD_numbers_in_infinite_triangle.SummaOfTriangleRowTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SummaOfTriangleRowTest" />
+        <item itemvalue="TestNG.SummaOfTriangleRowTest" />
+        <item itemvalue="JUnit.DRootTest" />
+        <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a2bffb5-189d-4162-b5df-47822b3f0849" name="Changes" comment="" />
+      <created>1673885258471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673885258471</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
