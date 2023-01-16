@@ -1,4 +1,4 @@
-package Sum_of_Digits_OR_Digital_Root;
+package Numbers.Sum_of_Digits_OR_Digital_Root;
 
 public class DRoot {
 

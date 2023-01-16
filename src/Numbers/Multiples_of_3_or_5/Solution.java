@@ -1,4 +1,4 @@
-package Multiples_of_3_or_5;
+package Numbers.Multiples_of_3_or_5;
 
 public class Solution {
 

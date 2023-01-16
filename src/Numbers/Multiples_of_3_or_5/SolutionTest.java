@@ -1,4 +1,4 @@
-package Multiples_of_3_or_5;
+package Numbers.Multiples_of_3_or_5;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
