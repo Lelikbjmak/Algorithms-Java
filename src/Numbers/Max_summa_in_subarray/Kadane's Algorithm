@@ -1,0 +1,5 @@
+We start counting our summa from 1st elem. If our summa becomes below zero it indicates that subArray
+we have passed - useless. It will provides us only with negative contributions for our future subArrays.
+We find such parts of massive, that start slap bang after place where we obtained negative summa (s < 0).
+Explanation here:
+https://www.interviewbit.com/blog/maximum-subarray-sum/#:~:text=Kadane's%20Algorithm%20is%20an%20iterative,ending%20at%20the%20previous%20position.
