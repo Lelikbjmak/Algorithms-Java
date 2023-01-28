@@ -1,2 +1,5 @@
 # Algorithms-Java
-<div><H2>Algoritms using Java.</H2></div>
+---
+Here U can find algorithms, particulary from [codewars.com](https://www.codewars.com)
+<br>
+Here is my codewars homepage: [Lelikbjmak](https://www.codewars.com/users/Lelikbjmak)
