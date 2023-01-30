@@ -6,7 +6,7 @@ public class RangeExtraction {
 
         StringBuilder builder = new StringBuilder();
 
-        for (int i = 0; i < arr.length - 1; ) {
+        for (int i = 0; i < arr.length; ) {
 
             int tempIndex = i;
 
@@ -18,7 +18,7 @@ public class RangeExtraction {
                 builder.append("-");
                 builder.append(arr[i]);
             } else
-                if(i - tempIndex > 0) // == 1
+                if(i - tempIndex == 1) // == 1 if we have 1 2 3 5 6 7
                     i--;
 
             i++;
