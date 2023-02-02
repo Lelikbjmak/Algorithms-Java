@@ -39,6 +39,7 @@
 * [Most frequently used words in a text](https://github.com/Lelikbjmak/Algorithms-Java/tree/master/src/Strings/Most_frequently_used_words)
 * [Range Extraction](https://github.com/Lelikbjmak/Algorithms-Java/blob/master/src/Strings/rangeextraction/RangeExtraction.md)
 * [Sum Strings as Numbers](https://github.com/Lelikbjmak/Algorithms-Java/blob/master/src/Strings/sumStringsAsNumber/SumStringAsNumber.md)
+* [Number of Proper Fractions with Denominator d](https://github.com/Lelikbjmak/Algorithms-Java/blob/master/src/Numbers/number_of_proper_fractions/ProperFractions.md)
 
 ## 3 kyu
 
