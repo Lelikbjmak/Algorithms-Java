@@ -42,6 +42,7 @@
 * [Number of Proper Fractions with Denominator d](https://github.com/Lelikbjmak/Algorithms-Java/blob/master/src/Numbers/number_of_proper_fractions/ProperFractions.md)
 * [Catching Car Mileage Numbers](https://github.com/Lelikbjmak/Algorithms-Java/blob/master/src/Arrays/car_mileage_numbers/CarMileageNumbers.md)
 * [Pyramid Slide Down](https://github.com/Lelikbjmak/Algorithms-Java/blob/master/src/Algorithms/pyramid_slide_down/LongestSlideDown.md)
+* [Adding Big Numbers](https://github.com/Lelikbjmak/Algorithms-Java/blob/master/src/mathematics/adding_big_numbers/StringBigNumbers.md)
 
 ## 3 kyu
 
