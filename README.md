@@ -41,7 +41,7 @@
 * [Sum Strings as Numbers](https://github.com/Lelikbjmak/Algorithms-Java/blob/master/src/Strings/sumStringsAsNumber/SumStringAsNumber.md)
 * [Number of Proper Fractions with Denominator d](https://github.com/Lelikbjmak/Algorithms-Java/blob/master/src/Numbers/number_of_proper_fractions/ProperFractions.md)
 * [Catching Car Mileage Numbers](https://github.com/Lelikbjmak/Algorithms-Java/blob/master/src/Arrays/car_mileage_numbers/CarMileageNumbers.md)
-* [Pyramid Slide Down](https://www.codewars.com/kata/551f23362ff852e2ab000037/java)
+* [Pyramid Slide Down](https://github.com/Lelikbjmak/Algorithms-Java/blob/master/src/Algorithms/pyramid_slide_down/LongestSlideDown.md)
 
 ## 3 kyu
 
